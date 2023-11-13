@@ -40,8 +40,9 @@ In the image window, the program displays the state of eyes, blink rate, yawn ra
 
 Text-to-Speech conversion for creating warning or critical alerts can be incorporated with the integration of saved audio files and Asynchronous ROS Callback methods.
 
-![Car_4](https://raw.githubusercontent.com/rishn/DBAS/main/images/Car_4.png)
+![Car_4](https://github.com/rishn/DBAS/blob/main/images/Car_4.png)
 ![Car_1](https://github.com/rishn/DBAS/blob/main/images/Car_1.png)
-![Car_1](https://github.com/rishn/DBAS/assets/91053141/4d4553e8-c142-4d07-96b5-2fe6dd88e076)
+![Car_3](https://github.com/rishn/DBAS/blob/main/images/Car_3.png)
+![Car_2](https://github.com/rishn/DBAS/blob/main/images/Car_2.png)
 
 *Source files are not shared via the repository. However, additional files used along with the project directory structure are displayed.*
