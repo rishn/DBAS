@@ -46,14 +46,23 @@ Text-to-Speech conversion for creating warning or critical alerts can be incorpo
 ![Car_2](https://github.com/rishn/DBAS/blob/main/assets/Car_2.png)
 
 ## Demos
+
 https://github.com/rishn/DBAS/assets/91053141/d273e78a-bd3a-4c6d-ac9b-5319bd201197
+
 https://github.com/rishn/DBAS/assets/91053141/9492f15e-a066-4f53-a357-e4aff60c9ad6
+
 https://github.com/rishn/DBAS/assets/91053141/f01228ef-0d8d-4e3e-8339-f2e3885402b8
+
 https://github.com/rishn/DBAS/assets/91053141/5f75ba31-aaf7-495e-bce8-3405649a9446
+
 https://github.com/rishn/DBAS/assets/91053141/28bfe589-1e93-4384-a727-a940d68e3ef2
+
 https://github.com/rishn/DBAS/assets/91053141/211b4714-5f37-4598-9a6e-b11dde958552
+
 https://github.com/rishn/DBAS/assets/91053141/5caa7eff-ab42-4375-9694-61bc1bb4f46d
+
 https://github.com/rishn/DBAS/assets/91053141/638dc73c-d837-4a72-b7ea-0b3066ffacf4
+
 https://github.com/rishn/DBAS/assets/91053141/33dff907-02b7-44e5-9eb1-29bab46c9eca
 
 *Source files are not shared via the repository. However, additional files used along with the project directory structure are displayed.*
