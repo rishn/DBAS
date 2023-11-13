@@ -40,9 +40,20 @@ In the image window, the program displays the state of eyes, blink rate, yawn ra
 
 Text-to-Speech conversion for creating warning or critical alerts can be incorporated with the integration of saved audio files and Asynchronous ROS Callback methods.
 
-![Car_4](https://github.com/rishn/DBAS/blob/main/images/Car_4.png)
-![Car_1](https://github.com/rishn/DBAS/blob/main/images/Car_1.png)
-![Car_3](https://github.com/rishn/DBAS/blob/main/images/Car_3.png)
-![Car_2](https://github.com/rishn/DBAS/blob/main/images/Car_2.png)
+![Car_4](https://github.com/rishn/DBAS/blob/main/assets/Car_4.png)
+![Car_1](https://github.com/rishn/DBAS/blob/main/assets/Car_1.png)
+![Car_3](https://github.com/rishn/DBAS/blob/main/assets/Car_3.png)
+![Car_2](https://github.com/rishn/DBAS/blob/main/assets/Car_2.png)
+
+## Demos
+![Alert - Normal](https://github.com/rishn/DBAS/blob/main/assets/Alert%20-%20Normal.mp4)
+![Drowsiness - Closed Eye Duration](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20Closed%20Eye%20Duration.mp4)
+![Drowsiness - Low Blink Rate](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20Low%20Blink%20Rate.mp4)
+![Drowsiness - High Yawn Rate](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20High%20Yawn%20Rate.mp4)
+![Drowsiness - Head Tilt](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20Head%20Tilt.mp4)
+![Device](https://github.com/rishn/DBAS/blob/main/assets/Device.mp4)
+![Food or Beverage](https://github.com/rishn/DBAS/blob/main/assets/Food%20or%20Beverage.mp4)
+![Smoking](https://github.com/rishn/DBAS/blob/main/assets/Smoking.mp4)
+![No Seatbelt](https://github.com/rishn/DBAS/blob/main/assets/No%Seatbelt.mp4)
 
 *Source files are not shared via the repository. However, additional files used along with the project directory structure are displayed.*
