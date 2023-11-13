@@ -46,7 +46,17 @@ Text-to-Speech conversion for creating warning or critical alerts can be incorpo
 ![Car_2](https://github.com/rishn/DBAS/blob/main/assets/Car_2.png)
 
 ## Demos
-![Alert - Normal](https://github.com/rishn/DBAS/blob/main/assets/Alert%20-%20Normal.mp4)
+
+
+
+
+
+
+https://github.com/rishn/DBAS/assets/91053141/9598420a-9a5a-4692-85ae-ddd44c3256d7
+
+
+
+[Alert - Normal](https://github.com/rishn/DBAS/blob/main/assets/Alert%20-%20Normal.mp4)
 ![Drowsiness - Closed Eye Duration](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20Closed%20Eye%20Duration.mp4)
 ![Drowsiness - Low Blink Rate](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20Low%20Blink%20Rate.mp4)
 ![Drowsiness - High Yawn Rate](https://github.com/rishn/DBAS/blob/main/assets/Drowsiness%20-%20High%20Yawn%20Rate.mp4)
