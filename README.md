@@ -36,7 +36,7 @@ Using the pre-trained YOLOv5 DNN model discussed below under *4. Smoking*, the s
 7. **Fatigue/Ignorance** - Symptoms of fatigue are checked with the Drowsiness Detection module (discussed under *1. Drowsiness*), and appropriately alerted to the user.
 The Drowsiness detection module also detects when the driver is not focused on the road or is not visible in the camera, thereby detecting signs of ignorant behaviour.
 
-In the image window, the program displays the state of eyes, blink rate, yawn rate, head - yaw, pitch and roll angles, usage of device, consumption of food/drink, smoking and state of alertness (normal/warning/critical).
+In the image window, the program displays the state of eyes, blink rate, yawn rate, head - yaw, pitch and roll angles, usage of device, consumption of food/drink, smoking, seat belt and state of alertness (normal/warning/critical).
 
 Text-to-Speech conversion for creating warning or critical alerts can be incorporated with the integration of saved audio files and Asynchronous ROS Callback methods.
 
