@@ -1,4 +1,4 @@
-﻿# Driver Behaviour Analysis System (DBAS) V.2
+﻿# Driver Behaviour Analysis System (DBAS)
 
 An application which is aimed to *monitor and analyse driver behaviour* on various use cases, created during internship at RoshAI Kochi.
 
